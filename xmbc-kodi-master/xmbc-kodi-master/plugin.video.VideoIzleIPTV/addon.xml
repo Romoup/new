@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.VideoIzleIPTV" name="[COLOR beige]Video-izle.[/COLOR][COLOR red]TV[/COLOR]" version="0.0.2" provider-name="VideoIzleIPTV Team">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="IPTV.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>VideoIzleIPTV Team Sunar</summary>
+<description>VideoIzleIPTV Team Sunar</description>
+<disclaimer>VideoIzleIPTV Team Sunar</disclaimer>
+<platform>all</platform>
+</extension>
+</addon>

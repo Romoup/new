@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.VideoIzleIPTV" name="VideoIzleIPTV" version="0.0.2" provider-name="VideoIzleIPTV">
+<extension point="xbmc.addon.repository" name="VideoIzleIPTV Addons">
+<info compressed="false">https://raw.githubusercontent.com/video-izle/xmbc-kodi/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/video-izle/xmbc-kodi/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/video-izle/xmbc-kodi/master</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>VideoIzleIPTV Team Sunar</summary>
+<description>VideoIzleIPTV Team Sunar</description>
+<disclaimer>VideoIzleIPTV Team Sunar</disclaimer>
+<platform>all</platform>
+</extension>
+</addon>
